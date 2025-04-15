@@ -11,6 +11,12 @@ This project implements a traffic detection and counting system using camera fee
 
 ## Getting Started
 
+## Demo
+
+<p align="left">
+  <video src="demo/vehicle.mp4" controls="controls" style="max-width: 100%;"></video>
+  
+</p>
 ### Prerequisites
 
 - Python 3.11+
