@@ -11,12 +11,12 @@ This project implements a traffic detection and counting system using camera fee
 
 ## Getting Started
 
-## Demo
+### Demo
 
-<p align="left">
-  <video src="demo/vehicle.mp4" controls="controls" style="max-width: 100%;"></video>
-  
-</p>
+Experience real-time traffic analysis ! Watch the dynamic demonstration below where our system detects and counts vehicles effortlessly in motion. scenarios.
+
+![Dynamic Traffic Analysis](demo/vehicle_count.gif)
+
 ### Prerequisites
 
 - Python 3.11+
